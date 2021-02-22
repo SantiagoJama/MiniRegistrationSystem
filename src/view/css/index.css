@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+    padding-top: 2em;
+    font-size: 3rem;
+    width: 100%;
+    height: 6em;
+    background-color: lightseagreen;
+    color: white;
+}
+.main-p{
+    margin-top: 1em;
+    font-size: 2rem;
+    text-align: center;
+}
+.container-icon{
+    border-radius: 2em;
+    border: 1px solid lightseagreen;
+    width: 10em;
+    height: 10em;
+    margin: 2em;
+    text-align: center;
+}
+.container-icon a{
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: black;
+}
+.iconos{
+    width: 100%;
+    height: 100%;
+    border-radius: 2em;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
