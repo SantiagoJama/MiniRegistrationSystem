@@ -42,7 +42,7 @@
 ?>
 
     <div class="title-container">
-        <h1 class="title">Todos los usuarios registrados en register</h1>
+        <h1 class="title">Todos los usuarios registrados en Registration</h1>
     </div>
     <table class="table">
         <thead>

@@ -14,9 +14,6 @@ else{
         case "Guardar":
             $my_controller->set_data();
             break;
-        case "Ver":
-            header("Location src/view/Mostrar.php");
-            break;
     }
 }
 

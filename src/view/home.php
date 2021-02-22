@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h1 class="title">Gracias por ingresar a Register</h1>
+<h1 class="title">Gracias por ingresar a Registration</h1>
 <p class="main-p">
 A continuación puede seleccionar cualquiera de las opciones mostradas:
 </p>
