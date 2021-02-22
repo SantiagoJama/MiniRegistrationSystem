@@ -47,7 +47,7 @@
     <table class="table">
         <thead>
         <tr>
-            <th scope="col">ID usuario</th>
+            <th scope="col">ID de usuario</th>
             <th scope="col">Nombre</th>
             <th scope="col">Apellido</th>
             <th scope="col">Nickname (Apodo)</th>
